@@ -183,7 +183,7 @@ disqus_shortname:
 # Your Duoshuo shortname
 duoshuo_shortname:
 # Your Google analystics web property ID : UA-XXXXX-X
-google_analytics_id:
+google_analytics_id: UA-107315813-1
 # Your Baidu analystics web property ID : 9505a5af654a2478f93fd6c0ae4f687d
 baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -199,15 +199,15 @@ fb_app_id:
 # If you wanna add a sharing option, read user documentation :
 # Tranquilpeak configuration > Theme configuration > sharing-options
 sharing_options:
-    facebook:
-        icon: "fa-facebook-official"
-        url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
-    twitter:
-        icon: "fa-twitter"
-        url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+    #facebook:
+    #    icon: "fa-facebook-official"
+    #    url: "https://www.facebook.com/sharer/sharer.php?u={{post.permalink}}"
+    #twitter:
+    #    icon: "fa-twitter"
+    #    url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
+    #google_plus:
+    #    icon: "fa-google-plus"
+    #    url: "https://plus.google.com/share?url={{post.permalink}}"
     # Asian social networks
     # weibo:
     #     title: "Weibo"
